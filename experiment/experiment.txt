@@ -1,0 +1,1 @@
+experiment_id	instrument_model	instrument_model	library_name	library_layout	library_strategy	library_source	library_selection	insert_sizeex123	Illumina	Illumina MiSeq	lib12	PAIRED	WGS	GENOMIC	RANDOM	250
